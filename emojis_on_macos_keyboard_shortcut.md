@@ -1,0 +1,1 @@
+CMD + CTRL + SPACE brings up the macOS emoji picker.
