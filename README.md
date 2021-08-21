@@ -10,5 +10,5 @@ This is a repo to share what I learn.
 ## Categories
 
 ### macOS
-* Emoji keyboard shortcut
+* [Emoji keyboard shortcut](emojis_on_macos_keyboard_shortcut.md)
 
