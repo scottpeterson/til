@@ -15,3 +15,6 @@ This is a repo to share what I learn.
 
 ### Git
 * [Delete Git branches](delete_remote_git_branch.md)
+
+### Android
+* [Android Studio Tips & Tricks](android_studio_shortcuts.md)
