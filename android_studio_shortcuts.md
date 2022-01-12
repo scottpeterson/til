@@ -11,6 +11,8 @@
 
 `F4 or ⌘ + Down Arrow` Jump to source
 
+`⌘ + Shift + U` toggle UPPERCASE
+
 
 ## Settings
 `Always Select Opened Files` shows the most recently opened file in the file browser
