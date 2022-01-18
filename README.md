@@ -12,6 +12,7 @@ This is a repo to share what I learn.
 ### macOS
 * [Emoji keyboard shortcut](emojis_on_macos_keyboard_shortcut.md)
 * [Keyboard Shortcuts in general](macos_keyboard_shortcuts.md)
+* [screen recording keyboard shortcut](macOS_screen_recording_shortcut.md)
 
 ### Git
 * [Delete Git branches](delete_remote_git_branch.md)
